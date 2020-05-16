@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "organic-duality-224412",
+  "private_key_id": "6f9f75ea6c2f0ea837a0f3ee5c817edc67b093cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnCVzDSiAkaaiQ\nMG2pmt7FO5G7xqFsWVxiecwqk70RPygppt7jR7M4iOxIrVszmY+xuT5n/ynXSrgF\nD1r7u1HX/gJy8w1J29NLPWJy5f/XAgUJ+gmwkhLTrfDJB9wpkIiDRMQjTb4YWpJ5\n3a5XbEvTYj7JIusR4Xe+kdJBU8Tr18Cti3qQMA/xdO0gro5RhEXfz3TgJ0mx6dCh\niXQJdIGRhqOkggYSieEFe/1/nTGZSR446obVnRWk5uS8ZPPbG2/McCnJDU5E5qv4\n5z+Lbnq2FExfkdqNLlJAmH/RFfxBN6L0PZ7hW/sjpHaXNoitqbZj74brXdwKiQt1\ntOZxvvz7AgMBAAECggEAYms8lvymwJw58GKQ9KVCrOZ5aHJvJYbTsieMb77L1eL/\nqu6pGEzc7gJ2FWez6EFMUztEeGzcWBg+V/l4mq/rZ4WPaYRcbtA0LGMT4zpTSDZW\nCy/2nL89QethHWI5yYMGhFTw8NEXX6yFpWBn+lnp2zyI3on/dXiE2CuqU6Xpx0Us\nXWYweRSxAOzmc+Aw1nw1ksFChAWzT8DAHARMYaXLLopfatNp0U7vDdLjkFHeOSfq\n47AZBhIgDFbpHRLZ6s+eLWWK11Huz/zZJv7hZSjQyGX/AgTvFmSqhLbbwnVDl+Wu\ntj2+A5qwSqE1+V+l1dDZj03c/DXmysBfewdXpmhLgQKBgQDziIZIllb6lxNgXgkF\nrAoZwsaL2puZc98c7GZvU00RmqQVK9N5F5YguZ6pYrtericJTA7P+9FEb5Fwgc2v\ngGX73yqcjSJu5cyKaHFmbzzuT+lMPxODOpmf/dQe/kyqyelztJGSPfFe7u7Ml3Ok\n/QoJbHyjoCRHpnVZgxTlhEXeoQKBgQDy3RHVDoriInJavdqoEu+Gl16Uk0Cc6uic\nOd+w09gOhiNntY+kk5WTLKbBjSlJo3Yc0JaRb9IIf1fJw5rjnfIE1e2cqv4EhyPg\nkiEBnx3jnDm20vkrHMZ2DuP9tH+l9qSFXxCjhdQZeGxfytsDVJJnVJTno72+IB5i\nhnOZABtCGwKBgQDpeWOzx14P1DKhWsWviGYOmGscvTIbhbjK0+DIrcXfMLBKE8Ak\nAXbOXOY9YghcFv4Zra8tui/AOm3mvKrirGgZdrQ1biEqzGix8Lt3BwIVPstda8Nb\nNhz+A60PIaGCwxxq7xv4ZiY3az3JKxGVhXnP2xALFoZxoqYycLbh61PIwQKBgGNa\n01/BKkom43eB8gEOdhUuuc+4ihdn9q9q8btKfzo54CQeX9xpUCi8fJ/0Gu74Q2q4\nXtCy2U8Goah2MFhsFkWqKyILxg2eJ6xIu94I9VZXZDkKCEt94ycLInR5Mjt4Mogp\ngwoSxtmArX1m5MBxCc/iB2TYVNiCFUwjSwlNxNj/AoGAQut9iRhRe4rx91Ra6kg/\nDdouIoO4ZWS9ZUuisQapDrA7w8Jzsl29zOG/CzIJvrlWst136+yExt5stcdXsc3g\n7A9uGCcKQ2bjNWB2nO7HcgtH2M8tVo++y9QeDASo71iAgho3YHPEbCRKcKlKMhaU\n44v255CWYH9LOrctIlq43pA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2hv5g@organic-duality-224412.iam.gserviceaccount.com",
+  "client_id": "110319717209649524305",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2hv5g%40organic-duality-224412.iam.gserviceaccount.com"
+}
